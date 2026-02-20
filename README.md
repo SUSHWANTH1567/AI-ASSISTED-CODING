@@ -18,3 +18,5 @@
 
 
 7.5 -https://github.com/SUSHWANTH1567/AI-ASSISTED-CODING/blob/main/ai_ass_coding_1567_7.5.pdf
+
+8.2 -https://github.com/SUSHWANTH1567/AI-ASSISTED-CODING/blob/main/ai_ass_coding_1567_8.2.pdf
